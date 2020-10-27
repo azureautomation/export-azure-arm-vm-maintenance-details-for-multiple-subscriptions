@@ -1,0 +1,20 @@
+{
+    "Author": "James R Tabor",
+    "ContentSize": 4100,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/export-azure-arm-vm-maintenance-details-for-multiple-subscriptions/master/Export_Maintenance_ARM_VMs.ps1",
+    "DownloadCount": 781,
+    "Id": "Export-Azure-ARM-VM-41846fcd",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 480,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-12-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "A quick script for exporting Azure Virtual Machine Maintenance details across multiple subscriptions.\u00a0The script will prompt for selection of subscriptions using an Out-GridView, multiples can be selected by using Shift or Ctrl keys.\u00a0The resultant csv file will be opened at the c",
+    "Title": "Export Azure ARM VM Maintenance details for Multiple Subscriptions",
+    "UpdatedDate": "2017-12-28T00:00:00",
+    "Url": "https://github.com/azureautomation/export-azure-arm-vm-maintenance-details-for-multiple-subscriptions",
+    "UserTags": "Microsoft Azure, Maintenance, Windows Azure Virtual Machines"
+}
